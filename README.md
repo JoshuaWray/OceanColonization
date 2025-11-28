@@ -13,7 +13,7 @@ This project presents a step-by-step roadmap for ocean colonization as a surviva
 - **Phase 6 – Permanent Colonies:** Networked underwater habitats as extinction-resilient civilizations.  
 
 ## White Paper
-📄 [Download the full white paper]([Ocean Colonization as Humanity’s Lifeboat - White Paper.pdf])
+📄 [Download the full white paper](OceanColonization/Ocean Colonization as Humanity’s Lifeboat - White Paper.pdf)
 
 ## License
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)** license.  
